@@ -1,0 +1,1 @@
+lvgl_stm32f103rct6_ili9488\startup_stm32f103xe.o: startup_stm32f103xe.s
